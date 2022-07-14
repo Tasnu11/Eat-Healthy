@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+    margin: 0;
+    padding-left: 0;
+}
+span{
+    color:darkorange;
+}
+p{
+    color: gray;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: darkorange;
+    margin: 10px;
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+.half-width img{
+    width:  50%;
+    height: 400px;
+    width: 500px;
+    padding-left: 200px;
+}
+.top-bottom{
+    display: flex;
+}
+.half-width h1{
+    color:rgb(70, 64, 64);
+    font-size: 50px;
+}
+.about{
+    position: relative;
+   background-image: url(eat-healthy-main/images/female/Frame\ 58.png);
+   width: 100%;
+   height: 100vh;
+   background-size: cover;
+  
+}
+.half-width{
+    padding-top: 10%;
+    padding-left: 5%;
+}
+.about-me{
+    color: dimgrey;
+   padding-left: 50%;
+   padding-top: 10%;
+   
+    
+}
+    
